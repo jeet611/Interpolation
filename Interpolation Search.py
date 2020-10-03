@@ -1,4 +1,5 @@
-# Python program to implement interpolation search 
+# Python program to implement interpolation search
+# credit goes to jeet611 and jeet2610 for making this search valid and useful.
 
 # If x is present in arr[0..n-1], then returns 
 # index of it, else returns -1 
